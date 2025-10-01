@@ -1,8 +1,12 @@
 # Data 102 - Student Stress Group Project
 
-**Course**: Data 102\
+**Course**: Data 102 - Data Stewardship and Ethics\
 **Team Members**: William Armentrout, Katelyn Ledbetter, Ethan Meadows, David Rayle\
 **Term**: Fall 2025
+
+## Original Kaggle Dataset
+Link: https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets/data \
+Accessed: 9/30/2025
 
 ## Repository Layout
 
@@ -13,6 +17,6 @@
 ## Usage
 Clone this repository and navigate into specific directories:
 
-'''bash
-git clone <repo-url>
+```bash
+git clone <https://github.com/WillDBM/DATA102---Student-Stress-Group-Project.git>
 cd DATA102---Student-Stress-Group-Project
